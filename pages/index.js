@@ -11,7 +11,7 @@ export default function Home() {
       className={`flex min-h-screen flex-col items-center justify-between p-24 ${inter.className}`}
     >
       <h1 className={`mb-3 text-2xl font-semibold`}>
-            Hola Mundo{' '}
+            Hola Mundo ¡Desafio#2!{' '}
           </h1>
 
       <div className="mb-32 grid text-center lg:mb-0 lg:grid-cols-4 lg:text-left">
